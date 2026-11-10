@@ -45,29 +45,6 @@ Me gusta convertir diseños e ideas en productos web funcionales: desde sitios c
 - Implementación de landing pages y plantillas de correo electrónico.
 - Apoyo técnico y mejoras sobre proyectos existentes.
 
-## 🚀 Proyectos destacados
-
-### [Mi portafolio](https://cbastian-araque.github.io/My-Portfolio/)
-Portafolio personal donde presento mi experiencia, proyectos y herramientas de trabajo.
-
-### [RMAsociados](https://rmasociados.com.co/)
-Sitio web para una firma de abogados, desarrollado para ser administrable, accesible y adaptable a diferentes dispositivos, con atención a la optimización de carga.
-
-### 2Chance
-Proyecto de comercio electrónico enfocado en la comercialización de prendas originales nuevas y usadas.
-
-### Soy Amor
-Sitio web y aplicación para un restaurante. Incluye recepción de pedidos y reservas, con notificaciones al teléfono registrado. Desarrollado con WordPress.
-
-### [API REST Full Node.js](https://github.com/Cbastian-Araque/API-REST-FUL-nodejs)
-Proyecto de API REST para escanear páginas web y obtener información.
-
-### [Reloj digital](https://github.com/Cbastian-Araque/Reloj-Digital)
-Reloj digital de 12 horas desarrollado con HTML, CSS y JavaScript.
-
-### [Calculadora básica](https://github.com/Cbastian-Araque/Calculadora-b-sica-con-JavaScript-CSS-Grid)
-Calculadora de las cuatro operaciones básicas, construida con JavaScript y CSS Grid.
-
 ## 🎯 En qué me enfoco
 
 - Desarrollo y mantenimiento de sitios WordPress.
