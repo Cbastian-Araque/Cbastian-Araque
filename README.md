@@ -26,7 +26,7 @@ Me gusta convertir diseños e ideas en productos web funcionales: desde sitios c
 ## 💼 Experiencia
 
 ### Vectorial Studios SAS — WordPress Developer (Frontend)
-**2022 – actualidad** *(según la información publicada en mi portafolio)*
+**2022 – actualidad**
 
 - Desarrollo de sitios web a partir de diseños en Figma.
 - Implementación de sitios administrables, responsivos y orientados al rendimiento.
@@ -39,7 +39,7 @@ Me gusta convertir diseños e ideas en productos web funcionales: desde sitios c
 - Creación de landing pages para eventos y campañas publicitarias.
 
 ### Trabajo freelance — Desarrollador web
-**2018 – actualidad** *(según la información publicada en mi portafolio)*
+**2018 – actualidad**
 
 - Desarrollo, soporte y mantenimiento de sitios web.
 - Implementación de landing pages y plantillas de correo electrónico.
@@ -58,8 +58,6 @@ Me gusta convertir diseños e ideas en productos web funcionales: desde sitios c
 
 - **Portafolio:** https://cbastian-araque.github.io/My-Portfolio/
 - **GitHub:** https://github.com/Cbastian-Araque
-- **LinkedIn:** https://www.linkedin.com/ *(añade aquí la URL directa de tu perfil)*
+- **LinkedIn:** https://www.linkedin.com/in/sebasti%C3%A1n-araque/
 
 ---
-
-*Este perfil reúne información de mi portafolio y de los proyectos públicos disponibles en GitHub. Los detalles de experiencia y proyectos pueden actualizarse para reflejar mi trayectoria más reciente.*
